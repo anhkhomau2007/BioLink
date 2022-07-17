@@ -78,10 +78,6 @@ body {
     background: linear-gradient(45deg, #3b5998, #0078d7);
     box-shadow: 0px 4px 30px rgb(43 98 169 / 50%);
 }
-.fbmessenger{
-    background: linear-gradient(45deg, #1da1f2, #0e71c8);
-    box-shadow: 0px 4px 30px rgb(19 127 212 / 70%);
-}
 .instagram{
     background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
     box-shadow: 0px 4px 30px rgb(120 64 190 / 60%);
@@ -93,4 +89,8 @@ body {
 .website{
     background: linear-gradient(45deg, #d5135a, #f05924);
     box-shadow: 0px 4px 30px rgb(223 45 70 / 60%);
+}
+.mess{
+    background: linear-gradient(45deg, #1da1f2, #0e71c8);
+    box-shadow: 0px 4px 30px rgb(19 127 212 / 70%);
 }
